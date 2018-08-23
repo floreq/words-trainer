@@ -1,5 +1,5 @@
 # words-trainer
-Words trainer is base in the Google Sheets and uses the Google Apps Script as main mechanism to work.
+Words Trainer is base in the Google Sheets and uses the Google Apps Script as main mechanism to work.
 
 ## Getting Started
 Link below give you access to the project sheet where the Words Trainer has place. Just make copy of it into your Google Drive, give Google App Script asked privileges and you're ready to rock.
