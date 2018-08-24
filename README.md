@@ -29,3 +29,12 @@ Agree to privileges window to make the sheet works properly
 ```
 
 Check if it works
+
+## License
+
+This project is licensed under the MIT License
+
+## Acknowledgments
+
+* Martin Hawksey's compare script
+* [Martin Hawksey's compare script](https://mashe.hawksey.info/2013/07/google-spreadsheet-how-to-compare-two-strings-and-highlight-the-differences/)
