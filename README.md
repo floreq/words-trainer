@@ -8,7 +8,7 @@ Link below give you access to the project sheet where the Words Trainer has plac
 
 ### Set up
 
-Google Sheet
+Add to Google Sheet
 
 ```
 Copy Words Trainer Sheet to your Google Drive
@@ -27,3 +27,5 @@ Read appearing privileges window
 ```
 Agree to privileges window to make the sheet works properly
 ```
+
+Check if it works
